@@ -79,7 +79,7 @@ from pathlib import Path
 
 WIKI_API = "https://eqlwiki.com/api.php"
 PAGE_TITLE = "Alternate_Advancement"
-USER_AGENT = "EQL-AA-Calculator-DataSync/1.0 (+https://github.com/abnotus/EQL-AA-Calculator; contact: 146918937+abnotus@users.noreply.github.com)"
+USER_AGENT = "EQL-AA-Calculator-DataSync/1.0 (+https://github.com/abnotus/eql-aa-calculator; contact: 146918937+abnotus@users.noreply.github.com)"
 
 HERE = Path(__file__).resolve().parent
 SNAPSHOT_PATH = HERE / "snapshot.json"
